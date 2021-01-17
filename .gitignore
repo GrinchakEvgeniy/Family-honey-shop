@@ -1,0 +1,5 @@
+
+shopvenv
+Family_honey_shop/db.sqlite3
+Family_honey_shop/shop/migrations
+.idea
