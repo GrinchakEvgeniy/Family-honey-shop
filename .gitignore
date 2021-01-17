@@ -3,4 +3,5 @@ shopvenv/
 Family_honey_shop/db.sqlite3
 Family_honey_shop/shop/migrations/
 .idea/
-__pycache__/
+Family_honey_shop/Family_honey_shop/__pycache__/
+React_app/node_modules/
