@@ -1,5 +1,6 @@
 
-shopvenv
+shopvenv/
 Family_honey_shop/db.sqlite3
-Family_honey_shop/shop/migrations
-.idea
+Family_honey_shop/shop/migrations/
+.idea/
+__pycache__/
